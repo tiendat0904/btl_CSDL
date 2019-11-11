@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapLonSQL", "BaiTapLonSQL\BaiTapLonSQL.csproj", "{F7B95F20-DC50-4ACE-89A8-308F485CAB15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{23D1C9FC-BFA8-4E56-8E46-B94105EB71B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B95F20-DC50-4ACE-89A8-308F485CAB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B95F20-DC50-4ACE-89A8-308F485CAB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B95F20-DC50-4ACE-89A8-308F485CAB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B95F20-DC50-4ACE-89A8-308F485CAB15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {065E271C-EA9B-41A5-9285-4A7E1D2B91C3}
+	EndGlobalSection
+EndGlobal
